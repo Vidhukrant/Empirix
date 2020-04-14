@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50073" started-at="2020-04-14T18:13:50Z" finished-at="2020-04-14T18:14:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50073" started-at="2020-04-14T18:13:50Z" finished-at="2020-04-14T18:14:40Z">
+      <class name="com.emprix.tests.DashboardTest">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.emprix.tests.DashboardTest@5ba23b66]" name="setUpSuite" is-config="true" duration-ms="29228" started-at="2020-04-14T23:43:21Z" finished-at="2020-04-14T23:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="background()[pri:0, instance:com.emprix.tests.DashboardTest@5ba23b66]" name="background" is-config="true" duration-ms="15088" started-at="2020-04-14T23:43:50Z" finished-at="2020-04-14T23:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- background -->
+        <test-method status="PASS" signature="TC_006()[pri:0, instance:com.emprix.tests.DashboardTest@5ba23b66]" name="TC_006" duration-ms="34964" started-at="2020-04-14T23:44:05Z" description="Verify client details" finished-at="2020-04-14T23:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_006 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.emprix.tests.DashboardTest@5ba23b66]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-04-14T23:44:40Z" finished-at="2020-04-14T23:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.emprix.tests.DashboardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

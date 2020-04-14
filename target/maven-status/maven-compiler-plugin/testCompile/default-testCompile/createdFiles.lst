@@ -1,0 +1,8 @@
+com\emprix\tests\BaseTest.class
+com\emprix\pages\LoginPage.class
+com\emprix\tests\DashboardTest.class
+utility\ConfigReader.class
+com\emprix\pages\DashboardPage.class
+com\emprix\pages\BasePage.class
+com\emprix\tests\LoginTest.class
+utility\BrowserFactory.class
